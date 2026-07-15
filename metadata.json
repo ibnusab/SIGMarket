@@ -1,0 +1,6 @@
+{
+  "name": "SIGMA POS Mobile",
+  "description": "Smart Cashier for Modern Business - POS Application for UMKM, Cafes, Shops, and Laundry",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
